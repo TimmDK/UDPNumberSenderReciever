@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPNumberSender", "UDPNumberSender\UDPNumberSender.csproj", "{D26ECBC1-808C-4903-86DC-4E77A3C7F9D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UDPNumberSender", "UDPNumberSender\UDPNumberSender.csproj", "{D26ECBC1-808C-4903-86DC-4E77A3C7F9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPNumberReciever", "UDPNumberReciever\UDPNumberReciever.csproj", "{99CD38A0-2154-470C-97BF-4424AA852299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D26ECBC1-808C-4903-86DC-4E77A3C7F9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26ECBC1-808C-4903-86DC-4E77A3C7F9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26ECBC1-808C-4903-86DC-4E77A3C7F9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CD38A0-2154-470C-97BF-4424AA852299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CD38A0-2154-470C-97BF-4424AA852299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CD38A0-2154-470C-97BF-4424AA852299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CD38A0-2154-470C-97BF-4424AA852299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
